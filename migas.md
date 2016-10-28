@@ -1,8 +1,7 @@
 # Migas
-Created Wednesday 26 October 2016
 
 ## Notes
-* This recipe relies heavily on [[../Scrambled_Eggs.txt|this Scrambled Eggs]] recipe.
+* This recipe relies heavily on the Scrambled Eggs (scrambled-eggs.md) recipe.
 * If you want a less spicy version of this recipe, instead of slicing jalapeno rounds, cut the crowns off, then slice the jalapeno lengthwise. Cut all the seeds and whites out, and then slice those pepper halves into half-round slices.
 * If you don't have corn tortillas, crushed up tortilla chips are a good substitute.
 

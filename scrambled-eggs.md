@@ -3,6 +3,7 @@
 ## Notes
 
 Keys to great scrambled eggs:
+
 * Use 1 Tbsp half-n-half per 2 eggs.
 * Use 1 crack of pepper per egg, plus 2
 * Whip furiously in a front to over-the-top to back motion, creating large bubbles with the membrane
