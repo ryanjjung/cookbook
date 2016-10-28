@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2016-10-26T16:37:33-06:00
-
-====== Home ======
-Created Wednesday 26 October 2016
-
-Home for my recipes.

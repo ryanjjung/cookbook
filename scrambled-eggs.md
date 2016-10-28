@@ -1,10 +1,7 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2016-10-26T16:37:59-06:00
+# Scrambled Eggs
 
-====== Scrambled Eggs ======
+## Notes
 
-===== Notes =====
 Keys to great scrambled eggs:
 * Use 1 Tbsp half-n-half per 2 eggs.
 * Use 1 crack of pepper per egg, plus 2
@@ -14,7 +11,7 @@ Keys to great scrambled eggs:
 * When you do add salt, go easy on it. A light dusting of kosher salt across the top of the eggs is sufficient.
 * Eggs continue to cook on their residual heat after being removed from the pan. If it's done in the pan, it's overdone when you serve it. Move the eggs to a serving bowl while they're still a bit moist, and let them rest for a minute before serving.
 
-===== Ingredients =====
+## Ingredients
 (Served with bacon or sausage, this recipe feeds four)
 
 * 2 Tbsp butter (or bacon grease)
@@ -23,17 +20,18 @@ Keys to great scrambled eggs:
 * Kosher salt
 * 10 cracks of black peppercorns
 
-===== Prep =====
+## Prep
 * You'll need a skillet big enough to hold the ingredients, a rubber spatula, a mixing bowl, and a serving bowl
 * In a bowl, whip together the eggs and half-n-half (see notes)
 
-===== Directions =====
-1. Melt butter/grease in a skillet over low-to-medium-low heat.
-2. Pour in the eggs. Use the rubber spatula to get all the egg off the walls of the mixing bowl.
-3. Stir the eggs as they cook, forming them as they solidify into a small mound an inch or two high in the center of the skillet. Stir and flip the eggs a few times, until they are *almost* done.
-4. Sprinkle kosher salt over the eggs. Crack in 10 fresh cracks of pepper. Stir it up.
-5. Allow to cook for just a bit longer. When the eggs are nearly done (see notes), remove them to a mixing bowl. Let them rest a minute before serving.
+## Directions
+0. Melt butter/grease in a skillet over low-to-medium-low heat.
+0. Pour in the eggs. Use the rubber spatula to get all the egg off the walls of the mixing bowl.
+0. Stir the eggs as they cook, forming them as they solidify into a small mound an inch or two high in the center of the skillet. Stir and flip the eggs a few times, until they are *almost* done.
+0. Sprinkle kosher salt over the eggs. Crack in 10 fresh cracks of pepper. Stir it up.
+0. Allow to cook for just a bit longer. When the eggs are nearly done (see notes), remove them to a mixing bowl. Let them rest a minute before serving.
 
 
-===== Related Recipes =====
-* [[Migas]]
+## Related Recipes
+* Migas (migas.md)
+
