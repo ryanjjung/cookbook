@@ -42,9 +42,9 @@
    them over medium heat until the onion is translucent, 5-8 minutes, stirring often.
 0. Crush the garlic into the saucepan and stir it in. Allow to cook for 30-60 seconds,
    until the smell is very pungent over the saucepan.
-0. Pour in diced tomatoes, then the tomato sauce, then the tomato paste. Stir until the
-   paste thickens the sauce and is dissolved into it completely. Reduce heat to low and
-   simmer (see notes).
+0. Pour in diced tomatoes, then the tomato sauce, then the tomato paste. Add salt and pepper.
+   Stir until the paste thickens the sauce and is dissolved into it completely. Reduce
+   heat to low and simmer (see notes).
 
 ## Suggestions
 
