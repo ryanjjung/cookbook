@@ -12,7 +12,7 @@
 
 ## Ingredients
 
-* Vegetable oil
+* Olive oil
 * 1 small white onion
 * Rosemary
 * Oregano
@@ -36,7 +36,7 @@
 
 ## Directions
 
-0. Put enough vegetable oil in the saucepan to cover the bottom, 1-2 tbsp. Raise stovetop
+0. Put enough olive oil in the saucepan to cover the bottom, 1-2 tbsp. Raise stovetop
    to medium heat.
 0. When the oil is hot, add the diced onions, rosemary, oregano, thyme, and fennel. Cook
    them over medium heat until the onion is translucent, 5-8 minutes, stirring often.
