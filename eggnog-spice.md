@@ -11,5 +11,5 @@
 
 ## Directions
 0. Put everything in a small tupperware bowl, seal the top on, and shake until blended, about 3 seconds.
-0. Sprinkle a small amount on top of a mug of eggnog
+0. Sprinkle a bunch on top of a mug of eggnog and stir it up with a chopstick
 
