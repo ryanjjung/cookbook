@@ -19,7 +19,7 @@
 * 1/2 tsp Kitchen Bouquet
 * 2 tbsp worcestershire sauce
 * 2 tbsp low sodium soy sauce
-* 4 tbsp tomato past4 tbsp tomato paste
+* 4 tbsp tomato paste
 * 2 russett potatoes or equivalent amount of new potatoes
 * 3 large carrots
 * 64 oz Beef broth
