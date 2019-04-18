@@ -3,7 +3,8 @@
 ## Notes
 * Makes two loaves.
 * This recipe was prepared and tested at ~6300 ft. elevation and may require
-  adjustments elsewhere.
+  adjustments elsewhere. The original video is
+  [here](https://www.youtube.com/watch?v=2FVfJTGpXnU).
 * The best bread is made when the sourdough starter is very active. Feed it
   roughly four hours before using it.
 
@@ -67,6 +68,5 @@
   into the preheated baking sheet. It will immediately steam and bubble, so be
   careful. Ensure both baking sheets are fully in the oven. This also contributes
   to an unwarped loaf top.
-* Bake 50 minutes.
-* Allow to cool a while before cutting in.
+* Bake 55 minutes.
 
