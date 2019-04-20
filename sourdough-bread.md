@@ -41,7 +41,7 @@
   fingers slightly oiled, you can pick up the dough and let it stretch under its
   own weight. When you do, and the dough doesn't rip immediately, but you can still
   see light through the stretched out dough, you have kneaded enough.
-* Clean the your hands. Clean the mixing bowl and dry it. Lay a clean dish towel
+* Clean your hands. Clean the mixing bowl and dry it. Lay a clean dish towel
   over the top of the bowl and sprinkle quite a bit of flour over it. Place the
   dough lightly on the towel so it sinks into the bowl and rests. Fold the corners
   of the towel over the dough.
