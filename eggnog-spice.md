@@ -10,6 +10,6 @@
 * 1/8 tsp cayenne pepper
 
 ## Directions
-0. Put everything in a small tupperware bowl, seal the top on, and shake until blended, about 3 seconds.
-0. Sprinkle a bunch on top of a mug of eggnog and stir it up with a chopstick
+* Put everything in a small tupperware bowl, seal the top on, and shake until blended, about 3 seconds.
+* Sprinkle a bunch on top of a mug of eggnog and stir it up with a chopstick
 
