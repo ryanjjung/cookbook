@@ -16,14 +16,14 @@
 * 2 celery stalks
 * 3 medium russett potatoes
 * 1/2 cup all purpose flour
-* (up to) 1 quart half and half
+* 1 quart half and half
 * 2 green onions, or equivalent amount of chives
 * 1/2 cup shredded sharp cheddar cheese
 * kosher salt
 * black pepper
 
 # Tools
-* Dutch oven
+* Dutch oven or soup pot
 * Vegetable peeler
 * Knives for prep work, and a cutting board
 * Rubber spatula or wooden spoon for stirring
@@ -34,7 +34,7 @@
 * Cut the potatoes into half-inch cubes
 * Cut the bacon into one-inch strips
 * Slice the celery into quarter-inch moons
-* Peel the onion; cut it in half, then into quarter inch slices
+* Peel the onion, then dice it finely
 * Finely slice the green onions for garnish
 * Slice the sausage into quarter-inch rounds
 * Shred the cheddar cheese
@@ -46,20 +46,22 @@
   grease splatter, but leave room for liquid to evaporate. Stir the bacon pretty frequently. Allow
   the bacon to cook a bit past done, getting crispy and slightly burnt.
 * Using tongs (so that most of the grease remains in the dutch oven), remove the bacon to the
-  toweled plate. Using excess paper towel, press the bacon to soak the grease out of the bacon.
-  This makes the bacon fragile and crumbly. Set it aside, as you won't need it again until serving
-  time.
+  toweled plate. Using excess paper towel, press the bacon to soak the grease out of it. This makes
+  the bacon fragile and crumbly. Set it aside, as you won't need it again until serving time.
 * Reduce the stove temp to medium low and return the pot to the stovetop. Add 1/4 cup of the flour.
   Mix it into the grease to form a roux. If you need to add more flour to thicken the roux, add it
   one tablespoon at a time until it's thick and doughy.
 * Add the celery, onions, and carrots to the roux. Mix well, raising the heat back to medium, and
   cook for 3-5 minutes until the veggie juices start to release. Stir the liquid into the roux,
-  slightly thinning it. Brown the roux, but don't burn it. Reduce heat if need be.
+  slightly thinning it. Brown the roux, but don't burn it. Reduce heat if need be, and cook,
+  stirring regularly, for another 3-5 minutes.
 * When the roux is thick and bready and sticky, stir in about half a cup of half and half, which
   will make it looser. Now add the sausage and potatoes, stir them in, and add the rest of the half
   and half. Add salt and pepper. Stir it up.
 * Raise the stove temp to medium-high to slowly bring the heat up to a boil, then reduce the temp
   to medium/medium-low to maintain a low simmer. Cover and simmer for 10-15 minutes. Stir and
   unstick the pot a few times throughout.
-* When you can cut straight through the potatoes easily with a wooden spoon, it's done.
-* To serve, ladle soup into bowls, then garnish with crushed bacon bits and green onions or chives.
+* When you can cut straight through the potatoes easily with a wooden spoon, it's done. Test for
+  flavor, and stir in more salt if needed.
+* To serve, ladle soup into bowls, then garnish with shredded cheddar, then crushed bacon bits, and
+  finally green onions or chives.
