@@ -21,7 +21,7 @@
 
 ### Frosting
 * 2 cups sifted confectioners' sugar (the sugar must be sifted)
-* 1 tablespoon whole milk
+* 3-4 tablespoon whole milk
 * 1 tablespoon corn syrup
 * 1/4 teaspoon almond extract
 * Food colorings of your choice
