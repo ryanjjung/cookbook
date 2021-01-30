@@ -25,8 +25,7 @@
 * 2 tsp seven spice mix
 
 ### Mbakbaka
-* 1 Kg (2lbs) Lamb Cubes or Beef * 500g (1lb) Pasta elbows or small tubes * 2 Medium Onions * 2-3 Cloves of Garlic * 2-3 Green Chillies * 1/4 Cup Vegetable Oil * 4 Tbsp Tomato Paste * 2.5 Tsp Salt * 2 Tsp Bzaar mix, you can also add the third if you want * 1.5 Tsp Hot Paprika or 1 Tsp Paprika and 1/2 Tsp Cayenne Pepper * 500ml (17fl oz) Lamb or Beef stock
-
+* 1 Kg (2lbs) Lamb Cubes or Beef
 * 1/4 cup vegetable oil
 * 2 lbs lamb meat
 * 1 lb rigatoni pasta
